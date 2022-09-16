@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0641e17cfa054900b4df8ca59841721e
+timeCreated: 1559831381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "OpenSansLight"
+  fontNames:
+  - Open Sans
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
